@@ -20,7 +20,7 @@ You need to clone the repository using the command:
 
 After the repository has been copied, go to the repository and run the `npm install` command. 
 
-Start the server using the `node server.js`
+Start the server using the `node index.js`
 
 ## Thanks for your attention
 
