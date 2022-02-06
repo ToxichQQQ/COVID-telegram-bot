@@ -2,7 +2,7 @@
 
 This telegram bot sends statistics on COVID in the country of your choice
 
-###COVID_BOT
+
 ![alt text](./img/bot_img.jfif)
 
 ## Stack Technologies
