@@ -1,7 +1,7 @@
 const telegramAPI = require('node-telegram-bot-api')
 const covidInfo = require('covid19-api')
 const country = require('./country')
-const  token = 'Your Bot Token'
+const  token = 'Your bot token'
 
 const bot = new telegramAPI(token,{polling:true})
 
